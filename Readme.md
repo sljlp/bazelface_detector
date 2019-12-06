@@ -1,4 +1,4 @@
 # bazelface detector
 google's
 ## detect one image
-run python detect-one-img.py
+run ```python detect-one-img.py```
